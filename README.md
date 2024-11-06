@@ -1,9 +1,9 @@
 ![INSA](https://www.insa-lyon.fr/sites/all/themes/insa/logo.png)
 
-# GI-4-ISD - Data Science
+# GI-4-ISD - Introduction to Data Science
 ***
 
-This git repository contains the tutorial files for the [Data Science](https://moodle.insa-lyon.fr/course/view.php?id=10059) course of 4GI INSA Lyon.
+This git repository contains the tutorial files for the [Introduction to Data Science](https://moodle.insa-lyon.fr/course/view.php?id=10059) course of 4GI INSA Lyon.
 
 This document explains how to install and set up a python environment with conda and install all the required libraries.
 
