@@ -3,20 +3,20 @@
 # GI-4-ISD - Introduction to Data Science
 ***
 
-This git repository contains the tutorial files for the [Introduction to Data Science](https://moodle.insa-lyon.fr/course/view.php?id=10059) course of 4GI INSA Lyon.
+This git repository contains the tutorial files for the [Introduction to Data Science](https://moodle.insa-lyon.fr/course/view.php?id=10059) course of 4GI INSA Lyon:
+
+
+1. Notebook 1: [Data exploration](notebook.01-data-exploration.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludovicmoncla/insa-4gi-isd/blob/main/notebook.01-data-exploration.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/insa-4gi-isd/master?filepath=notebook.01-data-exploration.ipynb)
+2. Notebook 2: [Data analysis](notebook.02-data-analysis.ipynb)
+3. Notebook 3: [Regression](notebook.03-regression.ipynb)
+4. Notebook 4: [Sales prediction](notebook.04-sales-prediction.ipynb)
+
 
 This document explains how to install and set up a python environment with conda and install all the required libraries.
 
 **Information** For those who have troubles installing a python environment on your computer you can simply download notebooks files (`.ipynb`) from this repository and run them remotely with [Google Colab](http://colab.research.google.com) (*Google account needed*).
 
 ***
-
-List of notebooks:
-
-1. [Data exploration](notebook.01-data-exploration.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludovicmoncla/insa-4gi-isd/blob/main/notebook.01-data-exploration.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/insa-4gi-isd/master?filepath=notebook.01-data-exploration.ipynb)
-2. [Data analysis](notebook.02-data-analysis.ipynb)
-3. [Regression](notebook.03-regression.ipynb)
-4. [Sales prediction](notebook.04-sales-prediction.ipynb)
 
 
 
