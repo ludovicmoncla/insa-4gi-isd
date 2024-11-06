@@ -29,7 +29,7 @@ We will use it for managing the python environment and all the python libraries 
 There are several ways to install conda on your computer:
 1. [Anaconda distribution](https://www.anaconda.com/products/distribution): provides GUI applications, a lot of data science and machine learning package already installed
 2. [Miniconda](https://docs.conda.io/en/latest/miniconda.html): a minimal installer for conda, no GUI application
-3. [Miniforge](https://github.com/conda-forge/miniforge): another minimal installer for conda, no GUI application (recommended for the Mac M1 or M2 chips (Apple Silicon))
+3. [Miniforge](https://github.com/conda-forge/miniforge): another minimal installer for conda, no GUI application (recommended for the Macbook M chips (Apple Silicon))
 
 ## 2. Set up a conda environment
 
