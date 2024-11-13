@@ -6,12 +6,12 @@
 This git repository contains the tutorial files for the [Introduction to Data Science](https://moodle.insa-lyon.fr/course/view.php?id=10059) course of 4GI INSA Lyon:
 
 
-| Notebook | Colab | Binder |
-|:---:|---|---|
-| 1. Data exploration | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludovicmoncla/insa-4gi-isd/blob/main/notebook.01-data-exploration.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/insa-4gi-isd/master?filepath=notebook.01-data-exploration.ipynb) |
-| 2. Data analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludovicmoncla/insa-4gi-isd/blob/main/notebook.02-data-analysis.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/insa-4gi-isd/master?filepath=notebook.02-data-analysis.ipynb) |
-| 3. Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludovicmoncla/insa-4gi-isd/blob/main/notebook.03-regression.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/insa-4gi-isd/master?filepath=notebook.03-regression.ipynb) |
-| 4. Sales prediction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludovicmoncla/insa-4gi-isd/blob/main/notebook.04-sales-prediction.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/insa-4gi-isd/master?filepath=notebook.04-sales-prediction.ipynb) |
+| Notebooks | Links | 
+|:---:|---|
+| 1. Data exploration | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludovicmoncla/insa-4gi-isd/blob/main/notebook.01-data-exploration.ipynb) | 
+| 2. Data analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludovicmoncla/insa-4gi-isd/blob/main/notebook.02-data-analysis.ipynb) | 
+| 3. Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludovicmoncla/insa-4gi-isd/blob/main/notebook.03-regression.ipynb) | 
+| 4. Sales prediction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludovicmoncla/insa-4gi-isd/blob/main/notebook.04-sales-prediction.ipynb) | 
 
 
 
