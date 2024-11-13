@@ -7,7 +7,7 @@ This git repository contains the tutorial files for the [Introduction to Data Sc
 
 
 | Notebook | Colab | Binder |
-|:---:|---|
+|:---:|---|---|
 | Data exploration | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludovicmoncla/insa-4gi-isd/blob/main/notebook.01-data-exploration.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/insa-4gi-isd/master?filepath=notebook.01-data-exploration.ipynb) |
 | Data analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludovicmoncla/insa-4gi-isd/blob/main/notebook.02-data-analysis.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/insa-4gi-isd/master?filepath=notebook.02-data-analysis.ipynb) |
 | Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludovicmoncla/insa-4gi-isd/blob/main/notebook.03-regression.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/insa-4gi-isd/master?filepath=notebook.03-regression.ipynb) |
